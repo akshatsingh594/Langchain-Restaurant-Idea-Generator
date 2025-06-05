@@ -94,5 +94,12 @@ Today, many organizations are building their own internal LLMs trained on **prop
 
 ---
 
-## 📁 Repository Structure
+## License
+
+This repository is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+You are free to share and use this content for **non-commercial educational purposes only**. 
+
+No modifications or derivative works are allowed.
+
 
