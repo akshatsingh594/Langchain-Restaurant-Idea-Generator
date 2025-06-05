@@ -41,7 +41,7 @@ To explore and understand the **LangChain framework** and **OpenAI’s large lan
 - Handling API keys securely
 - Clean Python code structuring
 - Deployment of LLM apps on the web (via Streamlit/FastAPI)
-- RAG (Retrieval-Augmented Generation) with Vector Databases *(Coming Soon)*
+- RAG (Retrieval-Augmented Generation) with Vector Databases 
 
 ---
 
