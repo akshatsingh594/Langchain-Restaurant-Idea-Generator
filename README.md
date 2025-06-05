@@ -90,7 +90,7 @@ Today, many organizations are building their own internal LLMs trained on **prop
 ## 📸 UI Preview
 
 > Sample Output for Arabic Cuisine  
-> ![UI Screenshot](path/to/screenshot.png)
+> ![UI Screenshot](Screenshot.png)
 
 ---
 
